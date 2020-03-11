@@ -1,0 +1,9 @@
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\bin\Debug\simple_control_led.exe.config
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\bin\Debug\simple_control_led.exe
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\bin\Debug\simple_control_led.pdb
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\obj\Debug\simple_control_led.csprojAssemblyReference.cache
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\obj\Debug\simple_control_led.Form1.resources
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\obj\Debug\simple_control_led.Properties.Resources.resources
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\obj\Debug\simple_control_led.csproj.GenerateResource.cache
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\obj\Debug\simple_control_led.exe
+D:\S K R I P S I\C#\simple_control_led\simple_control_led\obj\Debug\simple_control_led.pdb
